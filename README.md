@@ -4,6 +4,8 @@
 
 https://i.imgur.com/Tl4C6LN.mp4
 
+Link do deploy: https://gabrielvinhas.github.io/maps/
+
 #### Aplicação para pegar rotas de um destino para outro, via carro, andando, bicicleta ou simplesmente estudar os países.
 
 ### 🔧 Instalação
