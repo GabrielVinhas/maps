@@ -2,7 +2,7 @@
 
 ## 🚀 Começando...
 
-<img alt='foto projeto'>
+https://i.imgur.com/Tl4C6LN.mp4
 
 #### Aplicação para pegar rotas de um destino para outro, via carro, andando, bicicleta ou simplesmente estudar os países.
 
